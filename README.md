@@ -6,7 +6,7 @@ take a quick look at how this repo look.
 ## Downloading code snapshots
 You can download all the content of a branch via the "Code" button here on Github. 
 You can then either clone the repository or simply download the selected branch content as a ZIP file.
-Important: You always download the entire branch content!
+
 
 ## Running the attached code
 
