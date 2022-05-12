@@ -1,5 +1,6 @@
 # FoodOrder-App
-A food order App and a StoryBook for the all component that are reusable
+A food order App and a StoryBook library for some of the component used in the App.
+The purpose is to demostrate functional component features
 Welcome to FoodOrder-App project! Below you will find a getting started again. Before we get to that lets 
 take a quick look at how this repo look.
 
